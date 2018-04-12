@@ -1,0 +1,7 @@
+anagram_simple_form.simple_form:
+  path: '/anagram/simple-form'
+  defaults:
+    _form: '\Drupal\anagram_simple_form\Form\SimpleForm'
+    _title: 'Anagram Check'
+  requirements:
+    _permission: 'access content'

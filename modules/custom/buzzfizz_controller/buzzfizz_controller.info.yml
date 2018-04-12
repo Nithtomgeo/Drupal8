@@ -1,0 +1,5 @@
+name: buzzfizz_controller module
+description: buzzfizz_controller module
+type: module
+core: 8.x
+package: buzzfizz_controller package

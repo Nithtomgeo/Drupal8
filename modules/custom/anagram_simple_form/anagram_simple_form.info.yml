@@ -1,0 +1,5 @@
+name: anagram_simple_form module
+description: anagram_simple_form module
+type: module
+core: 8.x
+package: anagram_simple_form package

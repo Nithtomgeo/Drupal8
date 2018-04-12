@@ -1,0 +1,7 @@
+buzzfizz_controller.buzz_list:
+  path: '/buzzfizz_controller/output'
+  defaults:
+    _controller: '\Drupal\buzzfizz_controller\Controller\BuzzController::page'
+    _title: 'BuzzFizz Number list'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+name: drupalup_simple_form module
+description: drupalup_simple_form module
+type: module
+core: 8.x
+package: drupalup_simple_form package

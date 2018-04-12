@@ -1,0 +1,14 @@
+<?php
+
+/**
+  * implementing hook_theme().
+*/
+
+function buzzfizz_controller_theme($existing, $type, $theme, $path){
+
+    return array(
+      'buzz_list' => array(
+        'variables' => array('items'=>array(), 'title' => '')
+      )
+    );
+}
